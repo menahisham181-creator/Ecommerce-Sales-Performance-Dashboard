@@ -97,10 +97,15 @@ Exposed states with highest and lowest sales contribution
 
 📁 Ecommerce-Sales-Performance-Dashboard
 │── 📄 Ecommerce Data (Cleaned)
+
 │── 📄 Power BI File (.pbix)
+
 │── 📄 README.md
+
 │── 📁 Images (Dashboard Screenshots)
+
 ---
+
 🧠 What This Project Demonstrates
 
 Strong business understanding
