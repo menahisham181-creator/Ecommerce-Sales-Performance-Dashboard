@@ -79,17 +79,15 @@ Clean, consistent color theme and layout
 
 📈 Key Insights
 
-Office Supplies is the top‑performing category, contributing the largest share of YTD sales, while Technology shows mixed YoY performance, indicating inconsistent demand.
+Office Supplies is the highest-revenue category, while Technology shows mixed YoY performance
 
-Top‑selling products drive a significant portion of total revenue, whereas several low‑selling items show minimal sales, highlighting opportunities for product rationalization.
+Top-selling products contribute significantly to total revenue, while several low-selling items show minimal sales
 
-The East region leads in total YTD sales, followed by the South, showing strong customer concentration in these areas.
+The East region leads in total YTD sales, followed by the South
 
-Standard Class shipping dominates order volume, suggesting customers prefer cost‑efficient delivery over speed.
+Standard Class shipping accounts for the majority of orders
 
-Profit shows YoY improvement despite a slight decline in Sales, indicating better cost control or improved pricing strategies.
-
-State‑level performance varies widely, with certain states contributing heavily while others show very low sales, revealing potential markets for targeted marketing or expansion.
+Profit shows YoY improvement despite a slight drop in Sales
 
 
 ---
