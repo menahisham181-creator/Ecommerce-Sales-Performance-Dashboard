@@ -5,6 +5,7 @@ This project demonstrates end‑to‑end BI development: data cleaning, modeling
 
 ---
 🖼️ Dashboard Preview
+
 <img width="2582" height="1448" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/b19263b9-e75d-4434-bb21-6e1f3d266070" />
 
 ---
