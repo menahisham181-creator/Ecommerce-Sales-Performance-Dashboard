@@ -3,8 +3,8 @@ A fully interactive Power BI dashboard analyzing the performance of a US‑based
 This project demonstrates end‑to‑end BI development: data cleaning, modeling, DAX, time‑intelligence, KPI design, and insight generation.
 
 🖼️ Dashboard Preview
-Ecommerce Dashboard.png
 
+<img width="2582" height="1448" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/9dbe5b75-383f-49c8-9ece-298e2a32cf72" />
 
 🧩 Problem Statement
 The business required a comprehensive YTD Sales Performance Dashboard to monitor:
