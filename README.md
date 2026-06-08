@@ -1,11 +1,11 @@
 📊 Ecommerce Sales Performance Dashboard – Power BI
 A fully interactive Power BI dashboard analyzing the performance of a US‑based Ecommerce business.
 This project demonstrates end‑to‑end BI development: data cleaning, modeling, DAX, time‑intelligence, KPI design, and insight generation.
-
+---
 🖼️ Dashboard Preview
 <img width="2582" height="1448" alt="Ecommerce Dashboard" src="https://github.com/user-attachments/assets/b19263b9-e75d-4434-bb21-6e1f3d266070" />
 
-
+---
 🧩 Problem Statement
 The business required a comprehensive YTD Sales Performance Dashboard to monitor:
 
@@ -22,8 +22,9 @@ Regional and State‑level sales contribution
 Shipping type performance
 
 The goal was to create a dashboard that supports quick decision‑making and highlights growth trends and performance gaps.
-
+---
 🛠️ Power BI Skills Demonstrated
+
 ✔ Data Preparation
 
 Cleaned and transformed raw ecommerce data in Power Query
@@ -68,7 +69,7 @@ Sales by State (map)
 Shipping Type breakdown
 
 Clean, consistent color theme and layout
-
+---
 📈 Key Insights
 Identified best and worst performing product categories
 
@@ -81,7 +82,7 @@ Analyzed shipping type efficiency
 Showed YoY growth trends for all major KPIs
 
 Exposed states with highest and lowest sales contribution
-
+---
 📂 Project Structure
 
 📁 Ecommerce-Sales-Performance-Dashboard
@@ -89,7 +90,7 @@ Exposed states with highest and lowest sales contribution
 │── 📄 Power BI File (.pbix)
 │── 📄 README.md
 │── 📁 Images (Dashboard Screenshots)
-
+---
 🧠 What This Project Demonstrates
 Strong business understanding
 
@@ -100,7 +101,7 @@ Professional DAX writing
 Dashboard design best practices
 
 Ability to extract meaningful insights
-
+---
 Dataset Source
 
 https://www.kaggle.com/datasets
