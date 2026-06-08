@@ -32,62 +32,65 @@ The goal was to create a dashboard that supports quick decision‑making and hig
 
 ✔ Data Preparation
 
-Cleaned and transformed raw ecommerce data in Power Query
+- Cleaned and transformed raw ecommerce data in Power Query
 
-Standardized data types and optimized columns
+- Standardized data types and optimized columns
 
-Built a dynamic Date Table using DAX (CALENDAR, YEAR, MONTH, WEEKNUM, etc.)
+- Built a dynamic Date Table using DAX (CALENDAR, YEAR, MONTH, WEEKNUM, etc.)
 
 ✔ Data Modeling
-Designed a Star Schema
 
-Created relationships between Fact and Date tables
+- Designed a Star Schema
 
-Hid unnecessary columns for a clean model
+- Created relationships between Fact and Date tables
+
+- Hid unnecessary columns for a clean model
 
 ✔ DAX Measures
-Created a full set of analytical measures, including:
 
-YTD Sales, Profit, Quantity, Profit Margin
+- Created a full set of analytical measures, including:
 
-PYTD metrics
+- YTD Sales, Profit, Quantity, Profit Margin
 
-YoY Growth %
+- PYTD metrics
 
-Monthly trend measures for sparklines
+- YoY Growth %
 
-Category, Region, State, and Shipping Type performance measures
+- Monthly trend measures for sparklines
 
-Conditional formatting logic for KPI indicators
+- Category, Region, State, and Shipping Type performance measures
+
+- Conditional formatting logic for KPI indicators
 
 ✔ Visualizations
-KPI Banner with YoY indicators and sparklines
 
-Sales by Category (YTD vs PYTD + trend icons)
+- KPI Banner with YoY indicators and sparklines
 
-Top 5 & Bottom 5 Products
+- Sales by Category (YTD vs PYTD + trend icons)
 
-Sales by Region (best/worst performing regions)
+- Top 5 & Bottom 5 Products
 
-Sales by State (map)
+- Sales by Region (best/worst performing regions)
 
-Shipping Type breakdown
+- Sales by State (map)
 
-Clean, consistent color theme and layout
+- Shipping Type breakdown
+
+- Clean, consistent color theme and layout
 
 ---
 
 📈 Key Insights
 
-Office Supplies is the highest-revenue category, while Technology shows mixed YoY performance
+- Office Supplies is the highest-revenue category, while Technology shows mixed YoY performance
 
-Top-selling products contribute significantly to total revenue, while several low-selling items show minimal sales
+- Top-selling products contribute significantly to total revenue, while several low-selling items show minimal sales
 
-The East region leads in total YTD sales, followed by the South
+- The East region leads in total YTD sales, followed by the South
 
-Standard Class shipping accounts for the majority of orders
+- Standard Class shipping accounts for the majority of orders
 
-Profit shows YoY improvement despite a slight drop in Sales
+- Profit shows YoY improvement despite a slight drop in Sales
 
 
 ---
@@ -107,15 +110,15 @@ Profit shows YoY improvement despite a slight drop in Sales
 
 🧠 What This Project Demonstrates
 
-Strong business understanding
+- Strong business understanding
 
-Clean data modeling
+- Clean data modeling
 
-Professional DAX writing
+- Professional DAX writing
 
-Dashboard design best practices
+- Dashboard design best practices
 
-Ability to extract meaningful insights
+- Ability to extract meaningful insights
 
 ---
 
