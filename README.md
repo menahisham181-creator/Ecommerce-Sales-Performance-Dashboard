@@ -13,17 +13,17 @@ This project demonstrates end‑to‑end BI development: data cleaning, modeling
 
 The business required a comprehensive YTD Sales Performance Dashboard to monitor:
 
-YTD Sales, Profit, Quantity, and Profit Margin
+- YTD Sales, Profit, Quantity, and Profit Margin
 
-YoY growth for all KPIs
+- YoY growth for all KPIs
 
-Category‑level performance (YTD vs PYTD)
+- Category‑level performance (YTD vs PYTD)
 
-Top & Bottom products
+- Top & Bottom products
 
-Regional and State‑level sales contribution
+- Regional and State‑level sales contribution
 
-Shipping type performance
+- Shipping type performance
 
 The goal was to create a dashboard that supports quick decision‑making and highlights growth trends and performance gaps.
 
