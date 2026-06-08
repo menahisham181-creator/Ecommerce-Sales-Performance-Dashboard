@@ -78,6 +78,7 @@ Clean, consistent color theme and layout
 ---
 
 📈 Key Insights
+
 Identified best and worst performing product categories
 
 Highlighted top‑selling and lowest‑selling products
