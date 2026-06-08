@@ -74,7 +74,9 @@ Sales by State (map)
 Shipping Type breakdown
 
 Clean, consistent color theme and layout
+
 ---
+
 📈 Key Insights
 Identified best and worst performing product categories
 
@@ -87,7 +89,9 @@ Analyzed shipping type efficiency
 Showed YoY growth trends for all major KPIs
 
 Exposed states with highest and lowest sales contribution
+
 ---
+
 📂 Project Structure
 
 📁 Ecommerce-Sales-Performance-Dashboard
