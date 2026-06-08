@@ -102,6 +102,7 @@ Exposed states with highest and lowest sales contribution
 │── 📁 Images (Dashboard Screenshots)
 ---
 🧠 What This Project Demonstrates
+
 Strong business understanding
 
 Clean data modeling
@@ -111,7 +112,9 @@ Professional DAX writing
 Dashboard design best practices
 
 Ability to extract meaningful insights
+
 ---
+
 Dataset Source
 
 https://www.kaggle.com/datasets
