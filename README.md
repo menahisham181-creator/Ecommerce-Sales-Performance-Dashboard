@@ -3,7 +3,7 @@ A fully interactive Power BI dashboard analyzing the performance of a US‑based
 This project demonstrates end‑to‑end BI development: data cleaning, modeling, DAX, time‑intelligence, KPI design, and insight generation.
 
 🖼️ Dashboard Preview
-https://github.com/menahisham181-creator/Ecommerce-Sales-Performance-Dashboard/blob/main/Ecommerce%20Dashboard.png
+Ecommerce Dashboard.png
 
 
 🧩 Problem Statement
